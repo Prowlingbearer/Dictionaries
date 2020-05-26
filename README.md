@@ -1,17 +1,16 @@
-Hello Guys, This is alphabetic passwords. Collection of various password list and with two names list.
+Hello Guys, This is prowlingbearer and I make repository and upload wordlist on the github.
 
-Please support for more
+*In this repository you'll see the alpha pass folder which contains different list. The futher you go more wordlist will be found.*
+
+/////// I uploaded a password list of bank account pins////////
+
+It is the huge list of 4-Digit pins. Hope you loved this list. 
+
+Stay Legal. Only for testing and learning. Don't be illegal. 
+
+More lists will be update in this repository.
+
+Also I uploded a phone number password list which contains Indian phone number.
 
 
-Requirements 
-python3 
-
-Folder contains dictionaries folder 
-
-********Dictionaries contain 3 other folder with contains password folder with name computer, religion and hindi names*********
-
-
-***********Next update will be 4 digit password list for bank account hacking********
-
-
-///////STAY TUNED//////////
+***************************************I'm a ethical Hacker and I work legally**********************************
